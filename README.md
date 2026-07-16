@@ -44,7 +44,6 @@ https://assets.dio.me/636EvdJ6uwV37LxIi4B_Gku6mNMKfdaZp9LJy3PjGak/f:webp/q:80/w:
 https://assets.dio.me/xedxwxZ__qShq_lbqb7R9czI9PMMi8qwUOzS10uyzJg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci85UlRIVFFUVi5qcGc
 ---
 
-## 🚀 Próximos Estudos
-- Engenharia de Software (estágio remoto)  
+## 🚀 Próximos Estudos  
 - Softwares de iluminação (Madrix, Pangolin QuickShow)  
 - Back-end e dados (SQL, ETL, BI)  
